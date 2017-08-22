@@ -8,8 +8,16 @@ p {
 	font-size: 2vmax;
 }
 
-#intro {
+#intro, #restart {
 	text-align: center;
+}
+
+#restart {
+  padding: 1vmax;
+}
+
+#restart button {
+  font-size: 2vmax;
 }
 
 table {
