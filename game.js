@@ -141,6 +141,6 @@ function progress() {
 };
 
 function VanischIntro() {
-  $("#intro").hide("slow");
-  $("#restart").show("slow");
+  $("#intro").hide("fast");
+  $("#restart").show("fast");
 }
